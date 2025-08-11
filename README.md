@@ -27,7 +27,7 @@ Think of it as your personal OS co-pilot—always ready to help you work faster 
   > “Find the latest project summary in my Downloads, draft an email to the team, and schedule a follow-up meeting for Friday.”
 
 ### 🔧 OS Automation Toolkit
-- **Email Management** — compose and send emails via Gmail API.
+
 - **Calendar Scheduling** — create Google Meet events & appointments.
 - **Hardware Control** — toggle Bluetooth, Wi-Fi, etc.
 - **File Operations** — search, organize, and clean up files.
