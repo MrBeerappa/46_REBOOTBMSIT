@@ -1,6 +1,4 @@
-# 46_REBOOTBMSIT
-
-Sentinel-AI: Your Autonomous OS Co-Pilot
+# Sentinel-AI: Your Autonomous OS Co-Pilot
 
 
 An intelligent, voice-activated agent for automating complex tasks and streamlining your digital workflow directly from your terminal.
