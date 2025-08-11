@@ -70,7 +70,7 @@ Think of it as your personal OS co-pilot always ready to help you work faster an
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/AsimAftab/Sentinel-AI-Backend.git
+git clone https://github.com/MrBeerappa/46_REBOOTBMSIT.git
 cd Sentinel-AI-Backend
 python3 -m venv .venv
 source .venv/bin/activate     # macOS/Linux
