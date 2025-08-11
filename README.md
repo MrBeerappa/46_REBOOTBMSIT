@@ -6,7 +6,7 @@
 [![Ollama](https://img.shields.io/badge/LLM-Llama%203-blueviolet)](https://ollama.ai/)
 [![Status](https://img.shields.io/badge/Status-Active-success)]()
 
-**Sentinel-AI** is an intelligent, voice-activated assistant that automates complex tasks and streamlines your digital workflow—directly from your terminal.  
+**Sentinel-AI** is an intelligent, voice-activated assistant that automates complex tasks and streamlines your digital workflow directly from your terminal.  
 It acts as a bridge between natural language and system-level operations, enabling you to manage files, schedule meetings, send emails, control hardware, and more using simple conversational commands.  
 
 Powered by **LangGraph**, Sentinel-AI can plan and execute multi-step operations, integrating seamlessly with system tools and external APIs.  
