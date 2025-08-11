@@ -1,11 +1,7 @@
 # 46_REBOOTBMSIT
 
 Sentinel-AI: Your Autonomous OS Co-Pilot
-!(https://img.shields.io/github/actions/workflow/status/AsimAftab/Sentinel-AI-Backend/ci.yml?branch=main)
 
-
-
-!(https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 
 An intelligent, voice-activated agent for automating complex tasks and streamlining your digital workflow directly from your terminal.
 
