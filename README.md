@@ -10,7 +10,7 @@
 It acts as a bridge between natural language and system-level operations, enabling you to manage files, schedule meetings, send emails, control hardware, and more using simple conversational commands.  
 
 Powered by **LangGraph**, Sentinel-AI can plan and execute multi-step operations, integrating seamlessly with system tools and external APIs.  
-Think of it as your personal OS co-pilot—always ready to help you work faster and smarter.
+Think of it as your personal OS co-pilot always ready to help you work faster and smarter.
 
 ---
 
